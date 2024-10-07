@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24.127" viewBox="0 0 24 24.127">
+  <g id="voice_search_icon" transform="translate(0 0.064)">
+    <g id="Group_8346" data-name="Group 8346">
+      <g id="wishlist">
+        <g id="Group_8345" data-name="Group 8345">
+          <rect id="Rectangle_2713" data-name="Rectangle 2713" width="24" height="24" fill="none"/>
+        </g>
+      </g>
+      <g id="Icon_feather-mic" data-name="Icon feather-mic" transform="translate(4.8 0.686)">
+        <path id="Path_7085" data-name="Path 7085" d="M16.586,1.5A3.086,3.086,0,0,0,13.5,4.586v8.228a3.086,3.086,0,1,0,6.171,0V4.586A3.086,3.086,0,0,0,16.586,1.5Z" transform="translate(-9.386 -1.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_7086" data-name="Path 7086" d="M21.9,15v2.057a7.2,7.2,0,1,1-14.4,0V15" transform="translate(-7.5 -5.743)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_7087" data-name="Path 7087" d="M18,28.5v4.114" transform="translate(-10.8 -9.987)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_7088" data-name="Path 7088" d="M12,34.5h8.228" transform="translate(-8.914 -11.873)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

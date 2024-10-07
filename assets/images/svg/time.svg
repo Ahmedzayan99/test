@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10.457" viewBox="0 0 10 10.457">
+    <path data-name="Rectangle 17301" style="fill:none" d="M0 0h10v10H0z"/>
+    <g data-name="clock(1)">
+        <path data-name="Path 7201" d="M5 0a5 5 0 1 0 5 5 5 5 0 0 0-5-5zm0 9.167A4.167 4.167 0 1 1 9.167 5 4.167 4.167 0 0 1 5 9.167z" transform="translate(0 .457)" style="fill:#fff"/>
+        <path data-name="Path 7202" d="M9.175 6a.417.417 0 0 0-.417.417v1.8l-1.4.88a.418.418 0 1 0 .443.708l1.6-1a.417.417 0 0 0 .2-.358v-2.03A.417.417 0 0 0 9.175 6z" transform="translate(-4.175 -3.043)" style="fill:#fff"/>
+    </g>
+</svg>
